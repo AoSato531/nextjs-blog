@@ -13,7 +13,7 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <p>
-          <div>I like Pokemon.</div>
+          <div>I like Pokemon!!!!!</div>
           <div>My favorite Pokemon is Dugtrio.</div>
           <div>He(Dugtrio) is my best friend</div>
         </p>
